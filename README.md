@@ -12,11 +12,12 @@ This repository contains examples of time series forecasting using ARIMA and SAR
 
 1. Clone the repository.
 2. Install dependencies:
-   ```bash
+```bash
    pip install numpy pandas matplotlib statsmodels
-  Launch Jupyter Notebook:
-  jupyter notebook
-  ```
+   Launch Jupyter Notebook:
+   jupyter notebook
+```
+
 Overview
 The notebooks cover:
 
